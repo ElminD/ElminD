@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Welcome to my GitHub! <br>My name is Elmin Didic I am a student at Iowa State University studying Software Engineering.</p>
+<p align="center">Welcome to my GitHub! <br>My name is Elmin Didic and I am currently building DevCrate Hire Better</p>
 
 ###
 
