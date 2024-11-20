@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">Welcome to my GitHub! <br>My name is Elmin Didic and I am currently building DevCrate Hire Better</p>
+<p align="center">Welcome to my GitHub! <br>My name is Elmin Didic and I am currently building Claimable</p>
 
 ###
 
